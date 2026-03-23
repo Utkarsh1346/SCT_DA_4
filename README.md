@@ -27,7 +27,7 @@ Performed channel-wise analysis using pivot tables
 Compared ROI, conversions, and engagement across channels
 
 📊 Dashboard / Visualization
-<img width="1857" height="833" alt="Screenshot 2026-03-23 162729" src="https://github.com/user-attachments/assets/fede9628-d248-444d-a4ec-b9d616d35173" />
+<img width="1536" height="833" alt="image" src="https://github.com/user-attachments/assets/b18455cd-73d6-44ae-99fa-a5bc1116f4d0" />
 
 🔑 Key Insights
 Email is the best-performing channel with highest ROI and conversions
